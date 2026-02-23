@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ritabrata 👋
 
-<!--
-**ritabrata-dev/ritabrata-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Data Science) student at VIT Chennai.
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Natural Language Processing
+- AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Machine Learning projects
+- Data analysis
+- Model evaluation
+
+## Programming
+- Python
+- Java
+- C
+- C++
