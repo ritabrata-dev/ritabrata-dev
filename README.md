@@ -17,3 +17,7 @@ Computer Science (Data Science) student at VIT Chennai.
 - Java
 - C
 - C++
+## Goals for 2026
+- Build ML projects
+- Contribute to open source
+- Research internships
